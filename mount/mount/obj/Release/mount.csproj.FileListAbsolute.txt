@@ -1,0 +1,10 @@
+D:\Programming\C++\Projects\sib-paritet\mount\mount\bin\Release\mount.exe
+D:\Programming\C++\Projects\sib-paritet\mount\mount\bin\Release\mount.pdb
+D:\Programming\C++\Projects\sib-paritet\mount\mount\obj\Release\mount.csprojResolveAssemblyReference.cache
+D:\Programming\C++\Projects\sib-paritet\mount\mount\obj\Release\mount.Form1.resources
+D:\Programming\C++\Projects\sib-paritet\mount\mount\obj\Release\mount.Properties.Resources.resources
+D:\Programming\C++\Projects\sib-paritet\mount\mount\obj\Release\mount.csproj.GenerateResource.Cache
+D:\Programming\C++\Projects\sib-paritet\mount\mount\obj\Release\mount.exe
+D:\Programming\C++\Projects\sib-paritet\mount\mount\obj\Release\mount.pdb
+D:\Programming\C#\git\mount\mount\obj\Release\mount.exe
+D:\Programming\C#\git\mount\mount\obj\Release\mount.pdb

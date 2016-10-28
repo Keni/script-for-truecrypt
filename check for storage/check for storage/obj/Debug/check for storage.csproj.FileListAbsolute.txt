@@ -1,0 +1,4 @@
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\bin\Debug\check for storage.exe
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\bin\Debug\check for storage.pdb
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\obj\Debug\check for storage.exe
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\obj\Debug\check for storage.pdb

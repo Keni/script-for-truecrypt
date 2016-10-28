@@ -1,0 +1,9 @@
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\bin\Release\check for storage.exe
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\bin\Release\check for storage.pdb
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\obj\Release\check for storage.exe
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\obj\Release\check for storage.pdb
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\bin\Release\check for storage.exe.config
+D:\Programming\C++\Projects\sib-paritet\check for storage\check for storage\obj\Release\check for storage.csprojResolveAssemblyReference.cache
+D:\Programming\C#\git\check for storage\check for storage\bin\Release\check for storage.exe.config
+D:\Programming\C#\git\check for storage\check for storage\obj\Release\check for storage.exe
+D:\Programming\C#\git\check for storage\check for storage\obj\Release\check for storage.pdb
